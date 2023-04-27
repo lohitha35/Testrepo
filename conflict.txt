@@ -2,7 +2,7 @@ c
 c++
 java
 python
-sql
+query surge
 selenium
 testng
 cucumber
